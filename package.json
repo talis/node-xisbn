@@ -1,0 +1,12 @@
+{
+  "name": "xisbn",
+  "description": "OCLC xISBN Client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request": "~2.12.0"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.7.4"
+  }
+}
